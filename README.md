@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript, java spring boot**
 
-- 👨‍💻 All of my projects are available at [akashgohil.vercel.app/projects](akashgohil.vercel.app/projects)
+- 👨‍💻 All of my projects are available at [akashgohil.vercel.app/projects](https://akashgohil.vercel.app/projects)
 
 - 📝 I regularly write articles on [Akashgohil.vercel.app/blog](Akashgohil.vercel.app/blog)
 
