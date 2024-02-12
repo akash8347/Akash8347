@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [akashgohil.vercel.app/projects](https://akashgohil.vercel.app/projects)
 
-- 📝 I regularly write articles on [Akashgohil.vercel.app/blog](Akashgohil.vercel.app/blog)
+- 📝 I regularly write articles on [Akashgohil.vercel.app/blog](akashgohil.vercel.app/blog)
 
 - 📫 How to reach me **akashgohil.av@gmail.com**
 
