@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash gohil</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **Javascript, java spring boot**
+- 🌱 I’m currently learning **Javascript, react and next.js**
 
 - 👨‍💻 All of my projects are available at [akashgohil.vercel.app/projects](https://akashgohil.vercel.app/projects)
 
